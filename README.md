@@ -56,4 +56,9 @@ https://santosnr6.github.io/Data/pokemons.json
 4. Presentera data om eftersökt pokemon för användaren i DOM:en.
 
 ## Övning 6:
-1. Återupprepa övning 5 men utöka den. Omedelbart efter det första API-anropet gör du ett nytt API-anrop per hämtad pokemon och försök rendera alla pokemons med mer detaljerad info direkt på skärmen på ett tillfredsställande sätt. Tex i form av cards eller dylikt.
+* Återupprepa övning 5 men utöka den. Omedelbart efter det första API-anropet gör du ett nytt API-anrop per hämtad pokemon och försök rendera alla pokemons med mer detaljerad info direkt på skärmen på ett tillfredsställande sätt. Tex i form av cards eller dylikt.
+* Hitta på någonting valfritt med APIet space
+```
+https://santosnr6.github.io/Data/space.json
+```
+* Önskar ni ett API med specifikt tema som ni vill leka med, kan ni be mig att lösa detta. Det går jättesnabbt!
